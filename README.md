@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing web apps
 - 🌱 I’m currently learning a lot of new Stuffs (specifically frontend) 
 - 📫 How to reach me Drop an email @ Shikhayofficial@gmail.com for any freelance/job opportunity.
-- 😄 Pronouns: ...
+- 😄 Skills: 
 - ⚡ Fun fact: 
 
 <!---
